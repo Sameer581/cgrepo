@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.abes</groupId>
-	<artifactId>SpringMockTestDemo</artifactId>
+	<artifactId>SpringBootMockTestDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBootMockTestDemo</name>
 	<description>Core project for Spring Webservice</description>
